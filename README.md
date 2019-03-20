@@ -1,6 +1,14 @@
 # flutter_test_demo
 
-A new Flutter application.
+学习flutter时跟随技术胖的教程视频做的小demo
+功能：
+闪屏动画
+流式布局的使用
+保存页面状态
+贝塞尔曲线的用法
+毛玻璃图片的设置
+Draggable控件的使用（实现拖拽效果）
+实现可扩展的列表（ExpansionPanelList的使用）
 
 ## Getting Started
 
